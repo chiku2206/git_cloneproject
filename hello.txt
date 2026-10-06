@@ -1,1 +1,2 @@
 hello commit A
+adding commit B
